@@ -4,6 +4,12 @@
 - 地點：北科大 共同科館4樓412電腦教室
 - 講師：蘇嘉冠 feabries@gmail.com
 
+## 過去課程
+
+|年份|相關連結|
+|-----|------------|
+|2020|[課程首頁](https://sites.google.com/view/2020aintut/)|
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AINTUT/2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
