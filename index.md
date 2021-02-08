@@ -36,7 +36,7 @@
 
 |日期|主題|課堂練習|延伸閱讀|
 |-----|------|-----------|------------|
-|2021.02.24|方興未艾的人工智慧：發展與簡介 [[簡報](https://docs.google.com/presentation/d/1jH3bPgRATLSZS8s6RDlsd5tapWK9JJT9m0JqOAKEGoU/edit?usp=sharing)]||[了解人工智慧的第一本書：機器人和人工智慧能否取代人類？（作者：松尾豐）]|
+|2021.02.24|方興未艾的人工智慧：發展與簡介 [[簡報](https://docs.google.com/presentation/d/1jH3bPgRATLSZS8s6RDlsd5tapWK9JJT9m0JqOAKEGoU/edit?usp=sharing)]||[了解人工智慧的第一本書：機器人和人工智慧能否取代人類？（作者：松尾豐）](https://www.books.com.tw/products/0010723841)|
 |2021.03.03||||
 |2021.03.10||||
 |2021.03.17||||
