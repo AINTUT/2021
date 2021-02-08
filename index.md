@@ -10,6 +10,19 @@
 |-----|------------|
 |2020|[課程首頁](https://sites.google.com/view/2020aintut/)、[期末專題](https://hackmd.io/HbOStYCGR2atnyOyNzmo4w)|
 
+## 計分標準
+
+### 課堂練習（30%）
+
+這堂課程會有許多課堂上的實際練習，預計總共會有 10 次。如果課堂上來不及完成，可以課後再找時間寫，學期結束前都補交喔！
+
+### 期中考試（30%）
+
+### 期末專題（40%）
+
+### 自主參加校外比賽（5%）
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AINTUT/2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
