@@ -1,3 +1,9 @@
+## 課程資訊
+
+- 時間：每週三第 8 、9 節課（14:10 - 17:00、17:10 - 18:00）
+- 地點：北科大 共同科館4樓412電腦教室
+- 講師：蘇嘉冠 feabries@gmail.com
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AINTUT/2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
