@@ -8,7 +8,7 @@
 
 |年份|相關連結|
 |-----|------------|
-|2020|[課程首頁](https://sites.google.com/view/2020aintut/)|
+|2020|[課程首頁](https://sites.google.com/view/2020aintut/)、[期末專題](https://hackmd.io/HbOStYCGR2atnyOyNzmo4w)|
 
 ## Welcome to GitHub Pages
 
