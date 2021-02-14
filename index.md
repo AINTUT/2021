@@ -38,7 +38,7 @@ title: 人工智慧與工程應用課程 2021
 
 |日期|主題|課堂練習|延伸閱讀|
 |-----|------|-----------|------------|
-|2021.02.24|方興未艾的人工智慧：發展與簡介<br />[[slides](https://docs.google.com/presentation/d/1jH3bPgRATLSZS8s6RDlsd5tapWK9JJT9m0JqOAKEGoU/edit?usp=sharing)]||[了解人工智慧的第一本書：機器人和人工智慧能否取代人類？](https://www.books.com.tw/products/0010723841)<br />[智慧新世界：圖靈所沒有預料到的人工智慧](https://www.books.com.tw/products/0010880354)|
+|2021.02.24|[Lecture 0] 方興未艾的人工智慧：發展與應用簡介<br />[[slides](https://docs.google.com/presentation/d/1jH3bPgRATLSZS8s6RDlsd5tapWK9JJT9m0JqOAKEGoU/edit?usp=sharing)]||[了解人工智慧的第一本書：機器人和人工智慧能否取代人類？](https://www.books.com.tw/products/0010723841)<br />[智慧新世界：圖靈所沒有預料到的人工智慧](https://www.books.com.tw/products/0010880354)<br  />[AI背後的暗知識：機器如何學習、認知與改造我們的未來世界](https://www.books.com.tw/products/0010848804)|
 |2021.03.03||||
 |2021.03.10||||
 |2021.03.17||||
