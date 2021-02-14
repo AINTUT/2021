@@ -48,11 +48,11 @@ title: 人工智慧與工程應用課程 2021
 |2021.04.14|[Lecture 4] 把關品質的第一道防線：資料預處理<br /><br />[Lecture 4.5] 精益求精：模型評估與超參數調校||[Python機器學習第三版（上）](https://www.books.com.tw/products/0010869555) - 第 4, 6 章||
 |2021.04.21|面對現實，期中考囉！||
 |2021.04.28|期中考檢討<br /><br />期末專題分組與討論|||
-|2021.05.05|[Lecture 5] 當代人工智慧的基石：深度學習基礎與其常用技巧介紹<br /><br />[Lecture 5.5] 深度學習框架：PyTorch 簡介|||
-|2021.05.12|[Lecture 6] 影像辨識的救星：Convolutional Neural Networks|||
-|2021.05.19|[Lecture 7] 自然語言處理與 Recurrent Neural Networks (一)|||
-|2021.05.26|[Lecture 7.5] 自然語言處理與 Recurrent Neural Networks (二)<br /><br />繳交期期末專題構想書|||
-|2021.06.02|[Lecture 8] 給你無時無刻的注視：Transformer 與 BERT|||
-|2021.06.09|[Lecture 9] 創造無限可能：Autoencoder 與 GAN|||
+|2021.05.05|[Lecture 5] 當代人工智慧的基石：深度學習基礎與其常用技巧介紹<br /><br />[Lecture 5.5] 深度學習框架：PyTorch 簡介||[強者用PyTorch：實作史上最經典AI範例](https://www.books.com.tw/products/0010845128) - 第 1, 2, 3 章<br /><br />[Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)|
+|2021.05.12|[Lecture 6] 影像辨識的救星：Convolutional Neural Networks||[強者用PyTorch：實作史上最經典AI範例](https://www.books.com.tw/products/0010845128) - 第 5, 6 章|
+|2021.05.19|[Lecture 7] 自然語言處理與 Recurrent Neural Networks (一)||[強者用PyTorch：實作史上最經典AI範例](https://www.books.com.tw/products/0010845128) - 第 9, 10 章<br /><br />[Python機器學習第三版（下）](https://www.books.com.tw/products/0010871454) - 第 8 章|
+|2021.05.26|[Lecture 7.5] 自然語言處理與 Recurrent Neural Networks (二)<br /><br />繳交期期末專題構想書||[強者用PyTorch：實作史上最經典AI範例](https://www.books.com.tw/products/0010845128) - 第 9, 10 章<br /><br />[Python機器學習第三版（下）](https://www.books.com.tw/products/0010871454) - 第 8 章|
+|2021.06.02|[Lecture 8] 給你無時無刻的注視：Transformer 與 BERT||[Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf)（Transformer 原始論文）<br />[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)（BERT 原始論文）|
+|2021.06.09|[Lecture 9] 創造無限可能：Autoencoder 與 GAN||[強者用PyTorch：實作史上最經典AI範例](https://www.books.com.tw/products/0010845128) - 第 8 章<br />[Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)|
 |2021.06.16|換你來分享：期末專題報告 (一)|||
 |2021.06.23|換你來分享：期末專題報告 (二)<br /><br />業界人士實務經驗分享|||
