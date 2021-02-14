@@ -40,13 +40,13 @@ title: 人工智慧與工程應用課程 2021
 |-----|------|-----------|------------|
 |2021.02.24|[Lecture 0] 方興未艾的人工智慧：發展與應用簡介<br />[[slides](https://docs.google.com/presentation/d/1jH3bPgRATLSZS8s6RDlsd5tapWK9JJT9m0JqOAKEGoU/edit?usp=sharing)]||[了解人工智慧的第一本書：機器人和人工智慧能否取代人類？](https://www.books.com.tw/products/0010723841)<br  />[AI背後的暗知識：機器如何學習、認知與改造我們的未來世界](https://www.books.com.tw/products/0010848804)|
 |2021.03.03|[Lecture 0.5] 新時代的霸主？機器學習、深度學習概念與技術簡介||[Python機器學習第三版（上）](https://www.books.com.tw/products/0010869555) - 第 1 章<br />[智慧新世界：圖靈所沒有預料到的人工智慧](https://www.books.com.tw/products/0010880354)|
-|2021.03.10|[Lecture 1] 從基本功開始吧！Python 基礎與相關工具簡介|||
-|2021.03.17|[Lecture 2] 從茫茫資料海中追求真實：Regression (一)|||
-|2021.03.24|[Lecture 2.5] 從茫茫資料海中追求真實：Regression (二)|||
-|2021.03.31|[Lecture 3] 斷開鎖鏈！Decision Trees 與 Random Forests<br /><br />[Lecture 3.5] 尋找屬於你的同溫層：KNN 演算法|||
+|2021.03.10|[Lecture 1] 從基本功開始吧！Python 基礎與相關工具簡介||[Python 技術者們：練功！老手帶路教你精通正宗 Python 程式](https://www.books.com.tw/products/0010834816)|
+|2021.03.17|[Lecture 2] 從茫茫資料海中追求真實：Regression (一)||[Python機器學習第三版（上）](https://www.books.com.tw/products/0010869555) - 第 2, 3 章|
+|2021.03.24|[Lecture 2.5] 從茫茫資料海中追求真實：Regression (二)||[Python機器學習第三版（上）](https://www.books.com.tw/products/0010869555) - 第 2, 3 章|
+|2021.03.31|[Lecture 3] 斷開鎖鏈！Decision Trees 與 Random Forests<br /><br />[Lecture 3.5] 尋找屬於你的同溫層：KNN 演算法||[Python機器學習第三版（上）](https://www.books.com.tw/products/0010869555) - 第 3 章|
 |2021.04.07|運動會補假|||
-|2021.04.14|[Lecture 4] 把關品質的第一道防線：資料預處理<br /><br />[Lecture 4.5] 精益求精：模型評估與超參數調校|||
-|2021.04.21|面對現實，期中考囉！|||
+|2021.04.14|[Lecture 4] 把關品質的第一道防線：資料預處理<br /><br />[Lecture 4.5] 精益求精：模型評估與超參數調校||[Python機器學習第三版（上）](https://www.books.com.tw/products/0010869555) - 第 4, 6 章||
+|2021.04.21|面對現實，期中考囉！||
 |2021.04.28|期中考檢討<br /><br />期末專題分組與討論|||
 |2021.05.05|[Lecture 5] 當代人工智慧的基石：深度學習基礎與其常用技巧介紹<br /><br />[Lecture 5.5] 深度學習框架：PyTorch 簡介|||
 |2021.05.12|[Lecture 6] 影像辨識的救星：Convolutional Neural Networks|||
