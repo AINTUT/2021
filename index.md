@@ -44,7 +44,7 @@ title: 人工智慧與工程應用課程 2021
 |2021.03.17|[Lecture 2] 從茫茫資料海中追求真實：Regression (一)||[Python機器學習第三版（上）](https://www.books.com.tw/products/0010869555) - 第 2, 3 章|
 |2021.03.24|[Lecture 2.5] 從茫茫資料海中追求真實：Regression (二)||[Python機器學習第三版（上）](https://www.books.com.tw/products/0010869555) - 第 2, 3 章|
 |2021.03.31|[Lecture 3] 斷開鎖鏈！Decision Trees 與 Random Forests<br /><br />[Lecture 3.5] 尋找屬於你的同溫層：KNN 演算法||[Python機器學習第三版（上）](https://www.books.com.tw/products/0010869555) - 第 3 章|
-|2021.04.07|運動會補假|||
+|2021.04.07|運動會補假，休息一週|||
 |2021.04.14|[Lecture 4] 把關品質的第一道防線：資料預處理<br /><br />[Lecture 4.5] 精益求精：模型評估與超參數調校||[Python機器學習第三版（上）](https://www.books.com.tw/products/0010869555) - 第 4, 6 章||
 |2021.04.21|面對現實，期中考囉！||
 |2021.04.28|期中考檢討<br /><br />期末專題分組與討論|||
