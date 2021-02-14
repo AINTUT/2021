@@ -7,8 +7,5 @@ description: "本課程探討人工智慧（AI）與工程應用相關議題，�
 github:
   repository_name: "人工智慧與工程應用課程 2021"
 
-image:
-  path: "/images/logo.png"
-
-avatar: "/images/logo.png"
-round-avatar: true
+logo: "/images/logo.png"
+image: "/images/logo.png"
