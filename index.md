@@ -7,6 +7,7 @@ title: 人工智慧與工程應用課程 2021
 - 時間：每週三第 8 、9 節課（16:10 - 17:00、17:10 - 18:00）
 - 地點：北科大 共同科館 4 樓 412 電腦教室
 - 講師：蘇嘉冠 feabries@gmail.com
+- 助教：喬彥翔 joe871105123456@gmail.com、鄭宇伸 timmyabc10@gmail.com
 - 臉書社團：[連結](https://www.facebook.com/groups/759156424977401)
 
 ## 過去課程
