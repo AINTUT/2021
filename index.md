@@ -9,6 +9,7 @@ title: 人工智慧與工程應用課程 2021
 - 講師：蘇嘉冠 feabries@gmail.com
 - 助教：喬彥翔 joe871105123456@gmail.com、鄭宇伸 timmyabc10@gmail.com
 - 臉書社團：[連結](https://www.facebook.com/groups/759156424977401)
+- 課堂回饋問卷：[連結](https://docs.google.com/forms/d/e/1FAIpQLSdM3cXOgN-a65JrKQUyxgLwIOh4OweagsYs-PkthxOwEa1Xow/viewform)
 
 ## 過去課程
 
