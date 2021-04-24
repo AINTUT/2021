@@ -55,7 +55,7 @@ title: 人工智慧與工程應用課程 2021
 |2021.05.05|[Lecture 3] 電腦如何做選擇？Classification||[Python機器學習第三版（上）](https://www.books.com.tw/products/0010869555) - 第 2, 3 章|
 |2021.05.12|[Lecture 4] 當代人工智慧的基石：深度學習基礎與其常用技巧介紹<br /><br />[Lecture 4.5] 深度學習框架：PyTorch 簡介||[強者用PyTorch：實作史上最經典AI範例](https://www.books.com.tw/products/0010845128) - 第 1, 2, 3 章<br /><br />[Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)|
 |2021.05.19|[Lecture 5] 影像辨識的救星：Convolutional Neural Networks (一)||[強者用PyTorch：實作史上最經典AI範例](https://www.books.com.tw/products/0010845128) - 第 5, 6 章|
-|2021.05.26|[Lecture 5.5] 影像辨識的救星：Convolutional Neural Networks (二)<br /><br />繳交期期末專題構想書||[強者用PyTorch：實作史上最經典AI範例](https://www.books.com.tw/products/0010845128) - 第 5, 6 章|
+|2021.05.26|[Lecture 5.5] 影像辨識的救星：Convolutional Neural Networks (二)<br /><br />繳交期末專題構想書||[強者用PyTorch：實作史上最經典AI範例](https://www.books.com.tw/products/0010845128) - 第 5, 6 章|
 |2021.06.02|[Lecture 6] 自然語言處理與 Recurrent Neural Networks (一)||[強者用PyTorch：實作史上最經典AI範例](https://www.books.com.tw/products/0010845128) - 第 9, 10 章<br /><br />[Python機器學習第三版（下）](https://www.books.com.tw/products/0010871454) - 第 8 章|
 |2021.06.09|[Lecture 6.5] 自然語言處理與 Recurrent Neural Networks (二)||[強者用PyTorch：實作史上最經典AI範例](https://www.books.com.tw/products/0010845128) - 第 9, 10 章<br /><br />[Python機器學習第三版（下）](https://www.books.com.tw/products/0010871454) - 第 8 章|
 |2021.06.16|換你來分享：期末專題報告|||
