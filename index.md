@@ -11,7 +11,7 @@ title: 人工智慧與工程應用課程 2021
 - 臉書社團：[連結](https://www.facebook.com/groups/759156424977401)
 - 課堂回饋問卷：[連結](https://docs.google.com/forms/d/e/1FAIpQLSdM3cXOgN-a65JrKQUyxgLwIOh4OweagsYs-PkthxOwEa1Xow/viewform)
 - 期末專題分組填寫表：[連結](https://docs.google.com/forms/d/e/1FAIpQLScwnVskS9YjU2UNe5dILrA1rwI-EpPlnaQQ56ZupG2EkeuTWw/viewform?usp=sf_link)
-- 期摸專題構想書範例：[連結](https://hackmd.io/kfstnzpoQ9mrsZKjtUwcYg)
+- 期末專題構想書範例：[連結](https://hackmd.io/kfstnzpoQ9mrsZKjtUwcYg)
 
 ## 過去課程
 
