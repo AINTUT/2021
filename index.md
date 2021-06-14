@@ -13,6 +13,7 @@ title: 人工智慧與工程應用課程 2021
 - 期末專題分組填寫表：[連結](https://docs.google.com/forms/d/e/1FAIpQLScwnVskS9YjU2UNe5dILrA1rwI-EpPlnaQQ56ZupG2EkeuTWw/viewform?usp=sf_link)
 - 期末專題構想書範例：[連結](https://hackmd.io/kfstnzpoQ9mrsZKjtUwcYg)
 - 期末專題報告說明：[連結](https://docs.google.com/presentation/d/1SOm9P8HixkoxMMCc_SX5UPx0lLNN9Mi2HHN3U-eFEVY/edit?usp=sharing)
+- 6/28 (一) 23:59 是死線！：[連結](https://docs.google.com/presentation/d/1PW_AsTehSItU3KOdVD86NAtVm7bsTvIWFiPVGnH0Zdw/edit?usp=sharing)
 
 ## 過去課程
 
