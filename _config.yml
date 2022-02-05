@@ -1,4 +1,4 @@
-theme: "jekyll-theme-hacker"
+remote_theme: "kevinlin1/just-the-class"
 locale: "zh-TW"
 title: "人工智慧與工程應用課程 2021"
 tagline: "AINTUT 2021"
